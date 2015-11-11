@@ -1,7 +1,7 @@
 ---
 layout: post
 title: programming in ANIMATION
-published: false
+published: true
 ---
 ----
 ###***动画***
@@ -28,6 +28,9 @@ published: false
 > 旋转拼接
 
 **骨骼动画**
+> 换肤
+> 复杂动作
+> 节省资源，一劳永逸
 ***骨骼动画原理
 > 多个图片的属性动画组合（类似皮影戏）
 > dragonbone
